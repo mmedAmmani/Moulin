@@ -1,0 +1,965 @@
+# depslib dependency file v1.0
+1622397528 source:c:\users\mohamed ammani\desktop\méthodes de résolution\résolution des problèmes\projet\moulin\src\alphabeta.cpp
+	<iostream>
+	"../include/AlphaBeta.hpp"
+	"../include/Plateau.hpp"
+	<time.h>
+
+1618844600 source:c:\users\mohamed ammani\desktop\méthodes de résolution\résolution des problèmes\projet\moulin\src\joueur.cpp
+	"../include/Joueur.hpp"
+
+1621387473 c:\users\mohamed ammani\desktop\méthodes de résolution\résolution des problèmes\projet\moulin\include\joueur.hpp
+	<iostream>
+	<string>
+	"Joueur.hpp"
+	"MiniMax.hpp"
+	"AlphaBeta.hpp"
+	"SDL.hpp"
+
+1621458143 source:c:\users\mohamed ammani\desktop\méthodes de résolution\résolution des problèmes\projet\moulin\src\main.cpp
+	<iostream>
+	<windows.h>
+	<codecvt>
+	<io.h>
+	<fcntl.h>
+	"../include/Plateau.hpp"
+	"../include/MiniMax.hpp"
+	"../include/AlphaBeta.hpp"
+	"../include/SDL.hpp"
+
+1621387477 c:\users\mohamed ammani\desktop\méthodes de résolution\résolution des problèmes\projet\moulin\include\alphabeta.hpp
+	<iostream>
+	"Plateau.hpp"
+
+1621384206 c:\users\mohamed ammani\desktop\méthodes de résolution\résolution des problèmes\projet\moulin\include\minimax.hpp
+	<iostream>
+	"Plateau.hpp"
+
+1621417063 c:\users\mohamed ammani\desktop\méthodes de résolution\résolution des problèmes\projet\moulin\include\plateau.hpp
+	"MiniMax.hpp"
+	"AlphaBeta.hpp"
+	"SDL.hpp"
+	<iostream>
+	<string>
+
+1621439498 source:c:\users\mohamed ammani\desktop\méthodes de résolution\résolution des problèmes\projet\moulin\src\minimax.cpp
+	<iostream>
+	"../include/MiniMax.hpp"
+	"../include/Plateau.hpp"
+	<time.h>
+
+1622396717 source:c:\users\mohamed ammani\desktop\méthodes de résolution\résolution des problèmes\projet\moulin\src\plateau.cpp
+	<iostream>
+	<windows.h>
+	<codecvt>
+	<io.h>
+	<fcntl.h>
+	<time.h>
+	"../include/Plateau.hpp"
+	"../include/MiniMax.hpp"
+	"../include/AlphaBeta.hpp"
+
+1618405652 source:c:\users\mohamed ammani\desktop\moulin_version1.1\src\alphabeta.cpp
+
+1618844600 source:c:\users\mohamed ammani\desktop\moulin_version1.1\src\joueur.cpp
+	"../include/Joueur.hpp"
+
+1618843915 c:\users\mohamed ammani\desktop\moulin_version1.1\include\joueur.hpp
+	<iostream>
+	<string>
+	"Joueur.hpp"
+
+1618866582 source:c:\users\mohamed ammani\desktop\moulin_version1.1\src\main.cpp
+	<iostream>
+	<windows.h>
+	<codecvt>
+	<io.h>
+	<fcntl.h>
+	"../include/AlphaBeta.hpp"
+	"../include/Joueur.hpp"
+	"../include/MiniMax.hpp"
+	"../include/Plateau.hpp"
+
+1618405966 c:\users\mohamed ammani\desktop\moulin_version1.1\include\alphabeta.hpp
+
+1618405886 c:\users\mohamed ammani\desktop\moulin_version1.1\include\minimax.hpp
+
+1618857787 c:\users\mohamed ammani\desktop\moulin_version1.1\include\plateau.hpp
+	"Joueur.hpp"
+	<iostream>
+	<string>
+
+1618405623 source:c:\users\mohamed ammani\desktop\moulin_version1.1\src\minimax.cpp
+
+1618864645 source:c:\users\mohamed ammani\desktop\moulin_version1.1\src\plateau.cpp
+	<iostream>
+	<windows.h>
+	<codecvt>
+	<io.h>
+	<fcntl.h>
+	<time.h>
+	"../include/Plateau.hpp"
+
+1621425232 c:\users\mohamed ammani\desktop\méthodes de résolution\résolution des problèmes\projet\moulin\include\sdl.hpp
+	<iostream>
+	"SDL2/SDL.h"
+	"SDL_image.h"
+	"SDL_mixer.h"
+	"SDL_ttf.h"
+	"Plateau.hpp"
+
+1608576488 c:\users\mohamed ammani\desktop\méthodes de résolution\résolution des problèmes\projet\moulin\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_metal.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_sensor.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"SDL_locale.h"
+	"SDL_misc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608576488 c:\users\mohamed ammani\desktop\méthodes de résolution\résolution des problèmes\projet\moulin\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608576489 c:\users\mohamed ammani\desktop\méthodes de résolution\résolution des problèmes\projet\moulin\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	<sal.h>
+	"begin_code.h"
+	"close_code.h"
+
+1608576489 c:\users\mohamed ammani\desktop\méthodes de résolution\résolution des problèmes\projet\moulin\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+	<sdkddkver.h>
+
+1608576489 c:\users\mohamed ammani\desktop\méthodes de résolution\résolution des problèmes\projet\moulin\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1608576489 c:\users\mohamed ammani\desktop\méthodes de résolution\résolution des problèmes\projet\moulin\include\sdl2\begin_code.h
+
+1608576489 c:\users\mohamed ammani\desktop\méthodes de résolution\résolution des problèmes\projet\moulin\include\sdl2\close_code.h
+
+1608576488 c:\users\mohamed ammani\desktop\méthodes de résolution\résolution des problèmes\projet\moulin\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1608576488 c:\users\mohamed ammani\desktop\méthodes de résolution\résolution des problèmes\projet\moulin\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<sys/cpuinline.h>
+	<mbarrier.h>
+	"close_code.h"
+
+1608576488 c:\users\mohamed ammani\desktop\méthodes de résolution\résolution des problèmes\projet\moulin\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608576488 c:\users\mohamed ammani\desktop\méthodes de résolution\résolution des problèmes\projet\moulin\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608576488 c:\users\mohamed ammani\desktop\méthodes de résolution\résolution des problèmes\projet\moulin\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1608576488 c:\users\mohamed ammani\desktop\méthodes de résolution\résolution des problèmes\projet\moulin\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608576489 c:\users\mohamed ammani\desktop\méthodes de résolution\résolution des problèmes\projet\moulin\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"close_code.h"
+
+1608576489 c:\users\mohamed ammani\desktop\méthodes de résolution\résolution des problèmes\projet\moulin\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608576488 c:\users\mohamed ammani\desktop\méthodes de résolution\résolution des problèmes\projet\moulin\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608576488 c:\users\mohamed ammani\desktop\méthodes de résolution\résolution des problèmes\projet\moulin\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<arm_neon.h>
+	<armintr.h>
+	<arm_neon.h>
+	<arm64intr.h>
+	<arm64_neon.h>
+	<mm3dnow.h>
+	<immintrin.h>
+	<mmintrin.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1608576488 c:\users\mohamed ammani\desktop\méthodes de résolution\résolution des problèmes\projet\moulin\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608576489 c:\users\mohamed ammani\desktop\méthodes de résolution\résolution des problèmes\projet\moulin\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608576489 c:\users\mohamed ammani\desktop\méthodes de résolution\résolution des problèmes\projet\moulin\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608576489 c:\users\mohamed ammani\desktop\méthodes de résolution\résolution des problèmes\projet\moulin\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608576489 c:\users\mohamed ammani\desktop\méthodes de résolution\résolution des problèmes\projet\moulin\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608576488 c:\users\mohamed ammani\desktop\méthodes de résolution\résolution des problèmes\projet\moulin\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1608576488 c:\users\mohamed ammani\desktop\méthodes de résolution\résolution des problèmes\projet\moulin\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608576488 c:\users\mohamed ammani\desktop\méthodes de résolution\résolution des problèmes\projet\moulin\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1608576489 c:\users\mohamed ammani\desktop\méthodes de résolution\résolution des problèmes\projet\moulin\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1608576488 c:\users\mohamed ammani\desktop\méthodes de résolution\résolution des problèmes\projet\moulin\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608576488 c:\users\mohamed ammani\desktop\méthodes de résolution\résolution des problèmes\projet\moulin\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608576488 c:\users\mohamed ammani\desktop\méthodes de résolution\résolution des problèmes\projet\moulin\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_sensor.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608576489 c:\users\mohamed ammani\desktop\méthodes de résolution\résolution des problèmes\projet\moulin\include\sdl2\sdl_sensor.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608576489 c:\users\mohamed ammani\desktop\méthodes de résolution\résolution des problèmes\projet\moulin\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1608576488 c:\users\mohamed ammani\desktop\méthodes de résolution\résolution des problèmes\projet\moulin\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608576489 c:\users\mohamed ammani\desktop\méthodes de résolution\résolution des problèmes\projet\moulin\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608576488 c:\users\mohamed ammani\desktop\méthodes de résolution\résolution des problèmes\projet\moulin\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608576488 c:\users\mohamed ammani\desktop\méthodes de résolution\résolution des problèmes\projet\moulin\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608576488 c:\users\mohamed ammani\desktop\méthodes de résolution\résolution des problèmes\projet\moulin\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608576488 c:\users\mohamed ammani\desktop\méthodes de résolution\résolution des problèmes\projet\moulin\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608576488 c:\users\mohamed ammani\desktop\méthodes de résolution\résolution des problèmes\projet\moulin\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608576488 c:\users\mohamed ammani\desktop\méthodes de résolution\résolution des problèmes\projet\moulin\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608576488 c:\users\mohamed ammani\desktop\méthodes de résolution\résolution des problèmes\projet\moulin\include\sdl2\sdl_metal.h
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608576489 c:\users\mohamed ammani\desktop\méthodes de résolution\résolution des problèmes\projet\moulin\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608576489 c:\users\mohamed ammani\desktop\méthodes de résolution\résolution des problèmes\projet\moulin\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608576489 c:\users\mohamed ammani\desktop\méthodes de résolution\résolution des problèmes\projet\moulin\include\sdl2\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608576489 c:\users\mohamed ammani\desktop\méthodes de résolution\résolution des problèmes\projet\moulin\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608576489 c:\users\mohamed ammani\desktop\méthodes de résolution\résolution des problèmes\projet\moulin\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608576489 c:\users\mohamed ammani\desktop\méthodes de résolution\résolution des problèmes\projet\moulin\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608576488 c:\users\mohamed ammani\desktop\méthodes de résolution\résolution des problèmes\projet\moulin\include\sdl2\sdl_locale.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608576488 c:\users\mohamed ammani\desktop\méthodes de résolution\résolution des problèmes\projet\moulin\include\sdl2\sdl_misc.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1622396751 source:c:\users\mohamed ammani\desktop\méthodes de résolution\résolution des problèmes\projet\moulin\src\sdl.cpp
+	<iostream>
+	<string>
+	"../include/SDL2/SDL.h"
+	"../include/SDL2/SDL_image.h"
+	"../include/SDL2/SDL_mixer.h"
+	"../include/SDL2/SDL_ttf.h"
+	"../include/SDL.hpp"
+	"../include/Plateau.hpp"
+
+1561870398 c:\users\mohamed ammani\desktop\méthodes de résolution\résolution des problèmes\projet\moulin\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1541001618 c:\users\mohamed ammani\desktop\méthodes de résolution\résolution des problèmes\projet\moulin\include\sdl2\sdl_mixer.h
+	"SDL_stdinc.h"
+	"SDL_rwops.h"
+	"SDL_audio.h"
+	"SDL_endian.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1547325890 c:\users\mohamed ammani\desktop\méthodes de résolution\résolution des problèmes\projet\moulin\include\sdl2\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1622401552 source:c:\users\mohamed ammani\desktop\moulin\moulin\src\alphabeta.cpp
+	<iostream>
+	"../include/AlphaBeta.hpp"
+	"../include/Plateau.hpp"
+	<time.h>
+
+1621387477 c:\users\mohamed ammani\desktop\moulin\moulin\include\alphabeta.hpp
+	<iostream>
+	"Plateau.hpp"
+
+1622418827 c:\users\mohamed ammani\desktop\moulin\moulin\include\plateau.hpp
+	"MiniMax.hpp"
+	"AlphaBeta.hpp"
+	"SDL.hpp"
+	<iostream>
+	<string>
+
+1621384206 c:\users\mohamed ammani\desktop\moulin\moulin\include\minimax.hpp
+	<iostream>
+	"Plateau.hpp"
+
+1621425232 c:\users\mohamed ammani\desktop\moulin\moulin\include\sdl.hpp
+	<iostream>
+	"SDL2/SDL.h"
+	"SDL_image.h"
+	"SDL_mixer.h"
+	"SDL_ttf.h"
+	"Plateau.hpp"
+
+1608576488 c:\users\mohamed ammani\desktop\moulin\moulin\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_metal.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_sensor.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"SDL_locale.h"
+	"SDL_misc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608576488 c:\users\mohamed ammani\desktop\moulin\moulin\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608576489 c:\users\mohamed ammani\desktop\moulin\moulin\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	<sal.h>
+	"begin_code.h"
+	"close_code.h"
+
+1608576489 c:\users\mohamed ammani\desktop\moulin\moulin\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+	<sdkddkver.h>
+
+1608576489 c:\users\mohamed ammani\desktop\moulin\moulin\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1608576489 c:\users\mohamed ammani\desktop\moulin\moulin\include\sdl2\begin_code.h
+
+1608576489 c:\users\mohamed ammani\desktop\moulin\moulin\include\sdl2\close_code.h
+
+1608576488 c:\users\mohamed ammani\desktop\moulin\moulin\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1608576488 c:\users\mohamed ammani\desktop\moulin\moulin\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<sys/cpuinline.h>
+	<mbarrier.h>
+	"close_code.h"
+
+1608576488 c:\users\mohamed ammani\desktop\moulin\moulin\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608576488 c:\users\mohamed ammani\desktop\moulin\moulin\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608576488 c:\users\mohamed ammani\desktop\moulin\moulin\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1608576488 c:\users\mohamed ammani\desktop\moulin\moulin\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608576489 c:\users\mohamed ammani\desktop\moulin\moulin\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"close_code.h"
+
+1608576489 c:\users\mohamed ammani\desktop\moulin\moulin\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608576488 c:\users\mohamed ammani\desktop\moulin\moulin\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608576488 c:\users\mohamed ammani\desktop\moulin\moulin\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<arm_neon.h>
+	<armintr.h>
+	<arm_neon.h>
+	<arm64intr.h>
+	<arm64_neon.h>
+	<mm3dnow.h>
+	<immintrin.h>
+	<mmintrin.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1608576488 c:\users\mohamed ammani\desktop\moulin\moulin\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608576489 c:\users\mohamed ammani\desktop\moulin\moulin\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608576489 c:\users\mohamed ammani\desktop\moulin\moulin\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608576489 c:\users\mohamed ammani\desktop\moulin\moulin\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608576489 c:\users\mohamed ammani\desktop\moulin\moulin\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608576488 c:\users\mohamed ammani\desktop\moulin\moulin\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1608576488 c:\users\mohamed ammani\desktop\moulin\moulin\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608576488 c:\users\mohamed ammani\desktop\moulin\moulin\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1608576489 c:\users\mohamed ammani\desktop\moulin\moulin\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1608576488 c:\users\mohamed ammani\desktop\moulin\moulin\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608576488 c:\users\mohamed ammani\desktop\moulin\moulin\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608576488 c:\users\mohamed ammani\desktop\moulin\moulin\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_sensor.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608576489 c:\users\mohamed ammani\desktop\moulin\moulin\include\sdl2\sdl_sensor.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608576489 c:\users\mohamed ammani\desktop\moulin\moulin\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1608576488 c:\users\mohamed ammani\desktop\moulin\moulin\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608576489 c:\users\mohamed ammani\desktop\moulin\moulin\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608576488 c:\users\mohamed ammani\desktop\moulin\moulin\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608576488 c:\users\mohamed ammani\desktop\moulin\moulin\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608576488 c:\users\mohamed ammani\desktop\moulin\moulin\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608576488 c:\users\mohamed ammani\desktop\moulin\moulin\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608576488 c:\users\mohamed ammani\desktop\moulin\moulin\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608576488 c:\users\mohamed ammani\desktop\moulin\moulin\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608576488 c:\users\mohamed ammani\desktop\moulin\moulin\include\sdl2\sdl_metal.h
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608576489 c:\users\mohamed ammani\desktop\moulin\moulin\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608576489 c:\users\mohamed ammani\desktop\moulin\moulin\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608576489 c:\users\mohamed ammani\desktop\moulin\moulin\include\sdl2\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608576489 c:\users\mohamed ammani\desktop\moulin\moulin\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608576489 c:\users\mohamed ammani\desktop\moulin\moulin\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608576489 c:\users\mohamed ammani\desktop\moulin\moulin\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608576488 c:\users\mohamed ammani\desktop\moulin\moulin\include\sdl2\sdl_locale.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1608576488 c:\users\mohamed ammani\desktop\moulin\moulin\include\sdl2\sdl_misc.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1561870398 c:\users\mohamed ammani\desktop\moulin\moulin\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1541001618 c:\users\mohamed ammani\desktop\moulin\moulin\include\sdl2\sdl_mixer.h
+	"SDL_stdinc.h"
+	"SDL_rwops.h"
+	"SDL_audio.h"
+	"SDL_endian.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1547325890 c:\users\mohamed ammani\desktop\moulin\moulin\include\sdl2\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1621458143 source:c:\users\mohamed ammani\desktop\moulin\moulin\src\main.cpp
+	<iostream>
+	<windows.h>
+	<codecvt>
+	<io.h>
+	<fcntl.h>
+	"../include/Plateau.hpp"
+	"../include/MiniMax.hpp"
+	"../include/AlphaBeta.hpp"
+	"../include/SDL.hpp"
+
+1621439498 source:c:\users\mohamed ammani\desktop\moulin\moulin\src\minimax.cpp
+	<iostream>
+	"../include/MiniMax.hpp"
+	"../include/Plateau.hpp"
+	<time.h>
+
+1622396717 source:c:\users\mohamed ammani\desktop\moulin\moulin\src\plateau.cpp
+	<iostream>
+	<windows.h>
+	<codecvt>
+	<io.h>
+	<fcntl.h>
+	<time.h>
+	"../include/Plateau.hpp"
+	"../include/MiniMax.hpp"
+	"../include/AlphaBeta.hpp"
+
+1622396751 source:c:\users\mohamed ammani\desktop\moulin\moulin\src\sdl.cpp
+	<iostream>
+	<string>
+	"../include/SDL2/SDL.h"
+	"../include/SDL2/SDL_image.h"
+	"../include/SDL2/SDL_mixer.h"
+	"../include/SDL2/SDL_ttf.h"
+	"../include/SDL.hpp"
+	"../include/Plateau.hpp"
+
